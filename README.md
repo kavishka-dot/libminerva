@@ -1,7 +1,21 @@
 # MINERVA
 
+| Category | Badges |
+|---|---|
+| **Release** | ![Version](https://img.shields.io/badge/version-1.3.0-blue) ![Codename](https://img.shields.io/badge/codename-Athena-gold) |
+| **Core** | ![Language](https://img.shields.io/badge/language-C-00599C) ![Standard](https://img.shields.io/badge/C-C11-blue) ![License](https://img.shields.io/badge/license-MIT-green) |
+| **Quality** | ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![Tests](https://img.shields.io/badge/tests-26%20passing-brightgreen) |
+| **Embedded Constraints** | ![Allocation](https://img.shields.io/badge/allocation-zero-orange) ![Dynamic Memory](https://img.shields.io/badge/dynamic%20memory-none-red) |
+| **Security** | ![Security](https://img.shields.io/badge/security-encrypted%20%7C%20authenticated-purple) ![Crypto](https://img.shields.io/badge/crypto-ChaCha20%20%2B%20BLAKE2s-purple) |
+| **Hardware Targets** | ![Targets](https://img.shields.io/badge/targets-AVR%20%7C%20STM32%20%7C%20Host-lightgrey) ![MCU](https://img.shields.io/badge/min%20target-ATmega328P-informational) |
+| **Footprint** | ![RAM](https://img.shields.io/badge/RAM-~960B-informational) ![Flash](https://img.shields.io/badge/flash-~14KB-informational) |
+
+<img width="2349" height="758" alt="image" src="https://github.com/user-attachments/assets/efc12c71-9c4c-42d3-a6c9-70d513156137" />
+
+
+
 **Minimal Inference Engine for Robust, Verifiable, and Authenticated ML**
-*Version 1.2.0 - "Athena"*
+*Version 1.3.0 - "Athena"*
 
 ```
 Small. Secure. Certain.
